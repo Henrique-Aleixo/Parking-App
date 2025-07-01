@@ -114,9 +114,6 @@ Adotei princípios de design clean e funcional, garantindo que a interface do us
 ## Video Apresentação
 - [Link Youtube](https://youtu.be/Q6RF7s3jduU)
 
-## Previsão da Nota
-- 14 (Projeto de Recurso)
-
 ## Fontes de Informação
 - [Google Maps API](https://developers.google.com/maps?hl=pt-br)
 - [Geolocator](https://pub.dev/packages/geolocator)
